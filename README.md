@@ -1,1 +1,1 @@
-These are sum programs of DSA.
+These are some programs of DSA.
