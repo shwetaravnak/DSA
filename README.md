@@ -1,1 +1,1 @@
-These are some programs of DSA.
+These are some basic programs of DSA.
